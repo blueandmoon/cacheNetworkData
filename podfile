@@ -1,0 +1,2 @@
+pod 'FMDB', '~> 2.6.2'
+pod 'JSONModel', '~> 1.2.0'
