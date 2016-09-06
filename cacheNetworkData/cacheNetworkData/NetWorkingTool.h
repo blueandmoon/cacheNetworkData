@@ -13,6 +13,8 @@ typedef void(^Block)(id result);
 //  get请求
 + (void)getNetWorking:(NSString *)strURL block:(Block)getBlock;
 
++ (void)getNetWorkingJson:(NSString *)strURL block:(Block)getBlock;
+
 //  post请求
 + (void)postNetWorkig:(NSString *)strURL bodyStr:(NSString *)bodyStr block:(Block)block;
 

@@ -1,1 +1,4 @@
+pod 'MJExtension', '~> 3.0.11'
 pod 'AFNetworking', '~> 3.1.0'
+pod 'FMDB', '~> 2.6.2'
+pod 'JSONModel', '~> 1.2.0'
